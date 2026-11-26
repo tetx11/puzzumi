@@ -108,6 +108,6 @@ Oyunun tüm görsel kimliğini, arayüzünü ve oyun mantığını Godot Engine 
 
 Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
 
-**[tetik.dev](https://tetik.dev/projects.html)** · Muhammed Ali Tetik
+**[tetik.dev](https://tetik.dev)** · Muhammed Ali Tetik
 
 </div>
