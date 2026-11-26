@@ -6,13 +6,13 @@
 
 Godot ile sıfırdan geliştirdiğim, sıcak sonbahar temalı mobil bulmaca oyunu
 
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![Godot](badges/godot.svg)
+![GDScript](badges/gdscript.svg)
+![Android](badges/android.svg)
+![AdMob](badges/admob.svg)
 
-![Durum](https://img.shields.io/badge/durum-Google_Play_yay%C4%B1n_haz%C4%B1rl%C4%B1%C4%9F%C4%B1-F4A261?style=flat-square)
-![Dil](https://img.shields.io/badge/dil_deste%C4%9Fi-16_dil-8E7CC3?style=flat-square)
+![Durum](badges/durum.svg)
+![Dil](badges/dil.svg)
 
 <br>
 
